@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Example for Userfront signup with Create React App
+
+https://userfront.com/guide/examples/create-react-app.html
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
